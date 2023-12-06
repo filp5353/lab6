@@ -1,0 +1,5 @@
+﻿  la.cpp
+C:\Users\SuperStudent-EN\Desktop\la\la\la.cpp(28,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\SuperStudent-EN\Desktop\la\la\la.cpp(34,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\SuperStudent-EN\Desktop\la\la\la.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  la.vcxproj -> C:\Users\SuperStudent-EN\Desktop\la\Debug\la.exe
